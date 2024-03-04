@@ -19,5 +19,14 @@ Description:
 Функционал
 ![Функционал](https://github.com/xa2ka/OOP_COURSE_WORK/assets/161380453/c34bac12-60c9-41b7-acf9-8a1e38fb7ab0)
 
+
+![Снимок экрана 2024-03-04 215002](https://github.com/xa2ka/OOP_COURSE_WORK/assets/161380453/11fb8afd-28f2-4139-bf0f-85562a842c92)
+
+
+
 Диаграмма
-![Диаграмма](https://github.com/xa2ka/OOP_COURSE_WORK/assets/161380453/f9c251a3-9d44-49e2-92dd-e85c2deb2443)
+
+![image](https://github.com/xa2ka/OOP_COURSE_WORK/assets/161380453/70e64fec-c5b0-4144-ae05-428f263dc661)
+
+
+
